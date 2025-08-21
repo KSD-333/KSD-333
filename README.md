@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksd-333" alt="ksd-333" /></a> </p>
 
-- 🌱 I’m currently learning **Express , Node**
+- 🌱 I’m currently learning **Agentic Ai**
 
 - 👨‍💻 All of my projects are available at [In Progrsss](In Progrsss)
 
