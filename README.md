@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ketan Sanjay Dhainje</h1>
 <h3 align="center">Full stack developer from India with a passion for solving problems and creating smooth, modern web apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksd-333&label=Profile%20views&color=0e75b6&style=flat" alt="ksd-333" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksd-333" alt="ksd-333" /></a> </p>
 
 - 🌱 I’m currently learning **Agentic Ai**
 
-- 👨‍💻 All of my projects are available at [In Progrsss](In Progrsss)
+- 👨‍💻 All of my projects are available at GITHUB
 
-- 💬 Ask me about **React , TypeScript**
+- 💬 Ask me about **React , python , oops , cpp , Javascript**
 
 - 📫 How to reach me **ketandhainje333@gmail.com**
 
