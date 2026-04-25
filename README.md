@@ -36,7 +36,7 @@ class Ketan:
 ### 🔴 [Silent Screams — ML Distress Detection System](https://github.com/ksd-333/silent-screams)
 > **Privacy-first, fully offline behavioral anomaly detection**
 
-- 🧠 Bi-LSTM model trained on **6,200+ annotated video clips** across 5 behavioral classes
+- 🧠 Bi-LSTM model trained on **200+ annotated video clips** across 2 behavioral classes
 - 📸 Real-time pose estimation via MediaPipe (33 keypoints @ 30 fps)
 - ✅ **86% accuracy** | Sub-120ms CPU inference | Zero cloud dependency
 - ⚡ Instant local alerts with < 2% false-positive rate
