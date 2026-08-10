@@ -45,7 +45,7 @@ class Ketan:
 
 ---
 
-### 🌿 [Asim Agro — Production Full-Stack Platform](https://aseemagro.vercel.app) *(Live)*
+### 🌿 [Asim Agro — Production Full-Stack Platform](https://www.asimagroresearch.com/) *(Live)*
 > **End-to-end freelance web app for a real agricultural client**
 
 - 🛒 Handles **150+ products** and **80+ customer orders/month**
