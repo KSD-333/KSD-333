@@ -48,7 +48,7 @@ class Ketan:
 ### 🌿 [Asim Agro — Production Full-Stack Platform](https://www.asimagroresearch.com/) *(Live)*
 > **End-to-end freelance web app for a real agricultural client**
 
-- 🛒 Handles **150+ products** and **80+ customer orders/month**
+- 🛒 Handles **15+ products** and **100+ customer orders/month**
 - ⚡ CI/CD pipeline (GitHub Actions + Vercel CLI) — deploys in **< 3 minutes**
 - 🔒 Secure admin dashboard with role-based access and real-time updates
 - 📉 Reduced client's manual order processing time by **65%**
@@ -142,7 +142,7 @@ class Ketan:
 | 🏅 Achievement | Details |
 |---|---|
 | **GATE 2026 Qualified** | Graduate Aptitude Test in Engineering |
-| **NPTEL Cloud Computing — Elite** | IIT Kharagpur (2024) · Top 5% nationally |
+| **NPTEL Cloud Computing — Elite** | IIT Kharagpur (2024) |
 | **AWS Cloud Practitioner** | Simplilearn (2026) |
 | **NPTEL E-Business — Elite + Silver** | IIT Kharagpur (2024) · Top 5% nationally |
 
